@@ -1,0 +1,44 @@
+.header2{
+    color: blueviolet;
+    font-style: italic;
+}
+.innerpara1{
+    color: #b10a0a;
+    font-weight: 600;
+}
+.image{
+    float: right;
+}
+.tabletopic{
+    padding-top: 20%;
+    font-size: 25px;
+    font-weight: bold;
+}
+.table{
+    border: 1px solid;
+    border-color: black;
+    width: 100%;
+    
+}
+th,td{
+    text-align: left;
+    padding: 2px;
+}
+.footer{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: orange;
+    font-size: 10px;
+    padding: 3px;
+    color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+
+}
+body{
+    background-color: e6f3ff;
+    padding: 12%;
+    
+}
